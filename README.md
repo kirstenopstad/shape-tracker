@@ -30,6 +30,7 @@ This template includes placeholders for:
 * Clone this repo to your workspace.
 * Navigate to the top level of the directory.
 * Open index.html in your browser.
+<!-- If we want to open our project in the browser, this is the file we'll open. dist/bundle.js -->
 
 KO Ask Yourself:
 
